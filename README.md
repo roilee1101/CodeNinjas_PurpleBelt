@@ -1,5 +1,5 @@
-These files are from Code Ninjas Purple Belt Curriculum. 
+These files are from the Code Ninjas Purple Belt Unity Curriculum. 
 
-This repository is made to show progression through the Belt and to be used to give exmaples for future students.
+This repository is made to show progression through the Belt and to give examples for future students.
 
-All of these projects are completed by me 
+All of these projects have been completed by me 
